@@ -1,8 +1,5 @@
 '''
 Rand Hasan
-Honors Computer Programming
-Period 11
-Final Project: Arcade
 '''
 
 #-------------------References--------------------#
